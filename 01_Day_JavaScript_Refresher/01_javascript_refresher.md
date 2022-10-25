@@ -2,15 +2,14 @@
 
   <h1> 30 Days Of React: JavaScript Refresher</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/wassim-lahlali-080894211/"
-    <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+   
   </a>
 
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
+  
+
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<a href="[https://www.linkedin.com/in/asabeneh/](https://www.linkedin.com/in/wassim-lahlali-080894211/)" target="_blank">Lahlali Wassim</a><br>
 <small> October, 2020</small>
 </sub>
 
@@ -4520,4 +4519,5 @@ Check out there result on [codepen](https://codepen.io/Asabeneh/full/vYGqQxP)
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 0](../readMe.md) | [Day 2 >>](../02_Day_Introduction_to_React/02_introduction_to_react.md)
+[<< Day 0](../readMe.md) | [Day 2 >>](../02_Day_Introduction_to_React/02_introduction_to_react.md)</br>
+A demmain
