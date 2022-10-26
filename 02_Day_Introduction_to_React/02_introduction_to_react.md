@@ -1546,3 +1546,15 @@ Now, you have a very good understanding of how to create JSX elements and also h
 🌕 You are awesome. You have just completed day 2 challenges and you are two steps ahead on your way to greatness. Now do some exercises for your brain and for your muscle.
 
 
+### Exercises
+
+#### Exercises: What is React?
+
+1. What is React?
+2. What is a library?
+3. What is a single page application?
+4. What is a component ?
+5. What is the latest version of React?
+6. What is DOM?
+7. What is React Virtual DOM?
+8. What does a web application or a website(composed of) have?
