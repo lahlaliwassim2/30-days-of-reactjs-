@@ -1574,3 +1574,11 @@ Now, you have a very good understanding of how to create JSX elements and also h
 4. What is JSX?
 5. What is babel?
 6. What is a transpiler?
+
+#### Exercises: JSX Elements
+
+1. What is a JSX element?
+2. Write your name in a JSX element and store it in a name variable
+3. Write a JSX element which displays your full name, country, title, gender, email, phone number. Use h1 for the name and p for the rest of the information and store it in a user variable
+4. Write a footer JSX element
+
