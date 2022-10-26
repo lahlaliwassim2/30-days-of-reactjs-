@@ -8,16 +8,16 @@
   
 
 
-<sub>Author:
+<sub> 
 <a href="[https://www.linkedin.com/in/asabeneh/](https://www.linkedin.com/in/wassim-lahlali-080894211/)" target="_blank"> Lahlali Wassim </a><br>
 <small> 2022</small>
 </sub>
 
-</div>
+
 
 [<< Day 0](../readMe.md) | [Day 2 >>](../02_Day_Introduction_to_React/02_introduction_to_react.md)
 
-![30 Days of React banner](../images/30_days_of_react_banner_day_1.jpg)
+![30 Days of React banner]
 
 - [JavaScript Refresher](#javascript-refresher)
   - [0. Adding JavaScript to a Web Page](#0-adding-javascript-to-a-web-page)
