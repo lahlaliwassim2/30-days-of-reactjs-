@@ -1558,3 +1558,10 @@ Now, you have a very good understanding of how to create JSX elements and also h
 6. What is DOM?
 7. What is React Virtual DOM?
 8. What does a web application or a website(composed of) have?
+
+#### Exercises: Why React?
+
+1. Why did you chose to use react?
+2. What measures do you use to know popularity ?
+3. What is more popular, React or Vue ?
+
