@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1> 30 Days Of React: JavaScript Refresher</h1>
+  <h1> 30 Days Of React</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/wassim-lahlali-080894211/"
    
   </a>
