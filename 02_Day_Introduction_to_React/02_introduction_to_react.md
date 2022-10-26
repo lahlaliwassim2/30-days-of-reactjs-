@@ -1587,3 +1587,11 @@ Now, you have a very good understanding of how to create JSX elements and also h
 1. Create a style object for the main JSX
 2. Create a style object for the footer and app JSX
 3. Add more styles to the JSX elements
+
+#### Exercises: Internal Styles
+
+1. Apply different styles to your JSX elements
+
+#### Exercise: Inject data to JSX
+
+1. Practice how to make JSX element and injecting dynamic data(string, number, boolean, array, object)
