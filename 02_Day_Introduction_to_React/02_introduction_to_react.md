@@ -1582,3 +1582,8 @@ Now, you have a very good understanding of how to create JSX elements and also h
 3. Write a JSX element which displays your full name, country, title, gender, email, phone number. Use h1 for the name and p for the rest of the information and store it in a user variable
 4. Write a footer JSX element
 
+#### Exercises: Inline Style
+
+1. Create a style object for the main JSX
+2. Create a style object for the footer and app JSX
+3. Add more styles to the JSX elements
