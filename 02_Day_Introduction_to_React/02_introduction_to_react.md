@@ -63,3 +63,37 @@ To summarize:
 - React latest release is 16.13.1
 - [React versions](https://reactjs.org/versions/)
 - React official documentation can be found [here](https://reactjs.org/docs/getting-started.html)
+
+### 2. Why React?
+
+React is one of the most popular JavaScript libraries. Many developers and companies have been using it for the last couple of years. Its popularity has been growing fast and it has a huge community. How do we measure popularity? One measure of popularity could be GitHub repository stars, watchers and forks. Let us compare the popularity of [React](https://github.com/facebook/react) and [Vue](https://github.com/vuejs/vue). As of today, the popularity between the two most popular JavaScript looks like as shown on the diagram. From the diagram, you can speculate the most popular JavaScript library. You may look at the number of watchers, stars and forks for both React and Vue. These alone will not be a very good measure of popularity, but still it tells a little bit about the popularity of the two technologies. If I have to recommend another JavaScript library next to React, it would be Vue.js.
+
+#### React vs Vue popularity in October 2020
+
+React Official GitHub Repository
+
+![React Popularity October 2020](../images/react_repo_1_oct_2020.png)
+
+Vue Official GitHub Repository
+
+![Vue Popularity October 2020](../images/vue_repo_1_oct_2020.png)
+
+#### React vs Vue popularity in February 2020
+
+React Official GitHub Repository
+
+![React Popularity February 2020](../images/react_popularity.png)
+
+Vue Official GitHub Repository
+
+![Vue Popularity February 2020](../images/vue_popularity.png)
+
+Why we choose to use React ? We use it because of the following reasons:
+
+- fast
+- modular
+- scalable
+- flexible
+- big community and popular
+- open source
+- High job opportunity
