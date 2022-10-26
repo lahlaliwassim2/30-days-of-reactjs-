@@ -12,7 +12,7 @@
 <a href="[https://www.linkedin.com/in/asabeneh/](https://www.linkedin.com/in/wassim-lahlali-080894211/)" target="_blank"> Lahlali Wassim </a><br>
 <small> 2022</small>
 </sub>
-
+</div>
 
 
 [<< Day 0](../readMe.md) | [Day 2 >>](../02_Day_Introduction_to_React/02_introduction_to_react.md)
