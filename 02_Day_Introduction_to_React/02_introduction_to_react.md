@@ -1565,3 +1565,12 @@ Now, you have a very good understanding of how to create JSX elements and also h
 2. What measures do you use to know popularity ?
 3. What is more popular, React or Vue ?
 
+
+#### Exercises: JSX
+
+1. What is an HTML element?
+2. How to write a self closing HTML element?
+3. What is an HTML attribute? Write some of them
+4. What is JSX?
+5. What is babel?
+6. What is a transpiler?
