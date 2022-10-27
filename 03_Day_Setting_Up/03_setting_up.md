@@ -1,15 +1,12 @@
 <div align="center">
   <h1> 30 Days Of React: Setting Up </h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/wassim-lahlali/">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
+ 
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
+<a href="https://www.linkedin.com/in/wassim-lahlali/" target="_blank">Lahlali Wassim</a><br>
+<small> 27/06/2022</small>
 </sub>
 
 </div>
@@ -37,6 +34,7 @@
   - [Exercises: Level 1](#exercises-level-1)
   - [Exercises: Level 2](#exercises-level-2)
   - [Exercises: Level 3](#exercises-level-3)
+
 
 # Setting Up
 
