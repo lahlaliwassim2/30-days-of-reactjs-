@@ -9,7 +9,13 @@ import doSomeMath from './math.js'
 
 // to import the other modules
 // since these modules were not exported as default we have to desctructure
+import { addTwo, multiply, subtract } from './math.js'
 
+import * as everything from './math.js'
+console.log(addTwo(5, 5))
+console.log(doSomeMath.addTwo(5, 5))
+console.log(everything)
+// JSX element, header
 
 
 // JSX element, header
@@ -85,7 +91,7 @@ const main = (
   </main>
 )
 
-const copyRight = 'Copyright 2020'
+const copyRight = 'Copyright 2022'
 
 // JSX element, footer
 const footer = (
