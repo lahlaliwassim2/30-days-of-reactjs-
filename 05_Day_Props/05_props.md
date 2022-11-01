@@ -102,3 +102,118 @@ const Header = () => (
 
 Instead of injecting data we can also pass the data as props. React props are similar to parameters in functions.
 
+```js
+const welcome = 'Welcome to 30 Days Of React'
+const title = 'Getting Started React'
+const subtitle = 'JavaScript Library'
+const author = {
+  firstName: 'Asabeneh',
+  lastName: 'Yetayeh',
+}
+const date = 'Oct 4, 2020'
+
+// Header Component
+const Header = () => (
+  <header>
+    <div className='header-wrapper'>
+      <h1>{welcome}</h1>
+      <h2>{title}</h2>
+      <h3>{subtitle}</h3>
+      <p>
+        {author.firstName} {author.lastName}
+      </p>
+      <small>{date}</small>
+    </div>
+  </header>
+)
+```
+
+Instead of injecting data we can also pass the data as props. React props are similar to parameters in functions.
+
+## Props object
+
+React props is an object which you get instantly when you create a React component. Before we pass properties to the component, let's check what do we get in the props object.
+
+```js
+import React from 'react'
+import ReactDOM from 'react-dom'
+
+// Header Component
+const Header = (props) => {
+  console.log(props) // empty object, {}
+  return (
+    <header>
+      <div className='header-wrapper'>
+        <h1>{welcome}</h1>
+        <h2>{title}</h2>
+        <h3>{subtitle}</h3>
+        <p>
+          {author.firstName} {author.lastName}
+        </p>
+        <small>{date}</small>
+      </div>
+    </header>
+  )
+}
+
+// The App, or the parent or the container component
+// Functional Component
+const App = () => {
+  return (
+    <div className='app'>
+      <Header />
+    </div>
+  )
+}
+
+const rootElement = document.getElementById('root')
+
+ReactDOM.render(<App />, rootElement)
+```
+
+In the above console.log(props), you would get an empty object({}). That means if you do not pass any attributes or properties when you instantiate the component, the props will be empty otherwise it will be populated with the data you passed as attributes and the proper name of these attributes are props.
+
+Let's start with a simple example. In the example below, the welcome string has been passed as props in the Header components.
+
+```js
+import React from 'react'
+import ReactDOM from 'react-dom'
+
+// Header Component
+const Header = (props) => {
+  console.log(props) // {welcome:'Welcome to 30 Days Of React'}
+  return (
+    <header>
+      <div className='header-wrapper'>
+        <h1>{props.welcome}</h1>
+      </div>
+    </header>
+  )
+}
+
+// The App, or the parent or the container component
+// Functional Component
+const App = () => {
+  return (
+    <div className='app'>
+      <Header welcome='Welcome to 30 Days Of React' />
+    </div>
+  )
+}
+
+const rootElement = document.getElementById('root')
+
+ReactDOM.render(<App />, rootElement)
+```
+
+Now, when you do console.log(props) you should get the following object, that means the welcome property we passed to the Header component can be found inside the props object.
+
+```js
+{
+  welcome: 'Welcome to 30 Days Of React'
+}
+```
+
+As you can see in the above code, we passed only single props to Header component, the welcome props. A component can have one or many props. Props could be different data types. It could be a string, number, boolean, array, object or a function. We will cover different kind of props in the next sections.
+
+
