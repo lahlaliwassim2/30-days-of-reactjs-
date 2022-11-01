@@ -1097,3 +1097,25 @@ We will cover propTypes in detail in other sections.
 3. What data types can we pass as props to components ?
 4. What is a propTypes?
 5. What is a default propTypes?
+## Exercises: Level 2
+
+1. Create a functional component and display the following images
+   ![Front end](../images/frontend_technologies.png)
+
+2. Use functional component to create the following design
+
+![News Letter](../images/news_letter_design.png)
+
+## Exercises: Level 3
+
+1.  Use the given hexadecimal color generator in the example to create these random colors. If you don't know how to generate the hexadecimal color you can use [dummy data generator](https://www.30daysofreact.com/dummy-data)
+
+![Hexadecimal colors](../images/hexadecimal_color_exercise.png)
+
+2. Use functional component to design the following user card.
+
+![User Card](../images/user_card_design_jsx.png)
+
+🎉 CONGRATULATIONS ! 🎉
+
+[<< Day 4](../04_Day_Component/04_components.md) | [Day 6 >>](../06_Day_Map_List_Keys/06_map_list_keys.md)
