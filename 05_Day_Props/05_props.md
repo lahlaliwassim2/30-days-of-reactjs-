@@ -31,7 +31,7 @@
   - [Exercises: Level 2](#exercises-level-2)
   - [Exercises: Level 3](#exercises-level-3)
 
-# Props
+# Props 
 
 ## Props in Functional Component
 
